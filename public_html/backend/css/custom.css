@@ -1,0 +1,108 @@
+/*.nav > li {
+    position: relative;
+    display: block;
+}*/
+/*a {
+    color: #428bca;
+    text-decoration: none;
+    background: 0 0;
+}
+
+.nav > li {
+    position: relative;
+    display: block;
+}
+.collapse.in {
+    display: block;
+}
+.nav > li > a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+.nav {
+    margin-bottom: 0;
+    padding-left: 0;
+    list-style: none;
+}
+.tblsliders-index,.tblsliders-create {
+    background-color: white;
+    margin: -51px 0 0 18em;
+    padding: 52px 0 0 54px;
+    border-left: 1px solid #eee;
+}
+.breadcrumbs{
+    margin-left: 250px;
+}
+/*.container {
+    width: 1039px;
+    margin: 12px 48px 99px 288px;
+}*/
+/*.Tblclass .Divisions{
+    background-color: white;
+    margin: -51px 0 0 18em;
+    padding: 52px 0 0 54px;
+    border-left: 1px solid #eee;
+}
+.tblclass-division-create,.tblclass-division-index,.tblclass-division-update,.tblclass-division-view{
+	background-color: white;
+    margin: -51px 0 0 18em;
+    padding: 52px 0 0 54px;
+    border-left: 1px solid #eee;
+}
+.tblschool-info-index,.tblschool-info-create,.tblschool-info-update,.tblschool-info-view{
+    background-color: white;
+    margin: -51px 0 0 18em;
+    padding: 52px 0 0 54px;
+    border-left: 1px solid #eee;
+}
+.tbldepartment-create,.tbldepartment-index,.tbldepartment-update,.tbldepartment-view{
+    background-color: white;
+    margin: -51px 0 0 18em;
+    padding: 52px 0 0 54px;
+    border-left: 1px solid #eee;
+}
+.tblemployee-index,.tblemployee-create,.tblemployee-update,.tblemployee-view{
+    background-color: white;
+    margin: -51px 0 0 18em;
+    padding: 52px 0 0 54px;
+    border-left: 1px solid #eee;
+}
+.tblemployee-attendance-create,.tblemployee-attendance-update,.tblemployee-attendance-index,.tblemployee-attendance-view{
+    background-color: white;
+    margin: -51px 0 0 18em;
+    padding: 52px 0 0 54px;
+    border-left: 1px solid #eee;
+}
+.email-setting-create,.email-setting-index,.email-setting-update,.email-setting-view{
+    background-color: white;
+    margin: -51px 0 0 18em;
+    padding: 52px 0 0 54px;
+    border-left: 1px solid #eee;
+}
+.tblsms-setting-index,.tblsms-setting-create,.tblsms-setting-update,.tblsms-setting-view{
+    background-color: white;
+    margin: -51px 0 0 18em;
+    padding: 52px 0 0 54px;
+    border-left: 1px solid #eee;
+}
+.tblstudent-registration-index,.tblstudent-registration-create,.tblstudent-registration-update,.tblstudent-registration-view{
+    background-color: white;
+    margin: -51px 0 0 18em;
+    padding: 52px 0 0 54px;
+    border-left: 1px solid #eee;
+}
+.tblstud-attendance-index,.tblstud-attendance-create,.tblstud-attendance-update,.tblstud-attendance-view{
+    background-color: white;
+    margin: -51px 0 0 18em;
+    padding: 52px 0 0 54px;
+    border-left: 1px solid #eee;
+}*/
+/*.form-control{
+    width: 45%;
+}*/
+
+/*login*/
+.login{
+    margin-top: 75px;
+}
